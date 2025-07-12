@@ -11,6 +11,8 @@ transformer_translation/
 ├── tokenizer.py # Работа с токенизатором
 ├── checkpoints/ # Сохранённые веса модели
 └── logs/ # JSON-файл с логом обучения
+
+yaml
 ---
 
 ## Запуск обучения
