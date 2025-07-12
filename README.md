@@ -5,15 +5,12 @@
 
 ## Структура проекта
 
-transformer_translation/
-├── train.py # Скрипт для обучения (1 итерация)
-├── model.py # Модель Transformer
-├── tokenizer.py # Работа с токенизатором
-├── checkpoints/ # Сохранённые веса модели
-└── logs/ # JSON-файл с логом обучения
+train.py # Скрипт для обучения (1 итерация)
+model.py # Модель Transformer
+tokenizer.py # Работа с токенизатором
+checkpoints/ # Сохранённые веса модели
+logs/ # JSON-файл с логом обучения
 
-yaml
----
 
 ## Запуск обучения
 
